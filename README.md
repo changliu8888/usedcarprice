@@ -1,5 +1,5 @@
 # usedcarprice
-In this application, you will explore a dataset from Kaggle. My goal is to understand what factors make a car more or less expensive. As a result of your analysis, I provide clear recommendations to —a used car dealership—as to what consumers value in a used car and inventory suggestions.
+In this application, I will explore a dataset from Kaggle about used car prices. My goal is to understand what factors make a car more or less expensive. As a result of analysis, I provide clear recommendations to a used car dealership as to what consumers value in a used car and inventory suggestions.
 
 Here are some very high level extract of findings.  More details are found in the attached .docx file.
 
